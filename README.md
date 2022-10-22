@@ -11,3 +11,8 @@
 ***
 ## TEMAS
 - funciones, lambdas
+
+Integrantes
+<p>Juan Jose Cano Monsalve</p>
+<p>Alejandro Zamora Ramirez</p>
+<p>Andres Mercado Ramos</p>
